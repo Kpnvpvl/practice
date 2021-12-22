@@ -1,0 +1,20 @@
+ <!DOCTYPE HTML>
+<html>
+<head>
+ <title>Example</title>
+</head>
+<body>
+ <form action="handler.php">
+ <table border=1>
+   <tr><td>Город</td><td>Школа</td></tr>
+   <tr><td>Астана</td><td>123</td></tr>
+   <tr><td>Павлодар</td><td>10</td></tr>  
+ </table>
+ <ul>
+  <li><a href="https://www.youtube.com/">Youtube</li>
+  <li><a href="https://www.facebook.com/">Facebook</li>
+     <li><a href="https://twitter.com/?lang=ru">Twitter</li>
+ </ul>
+</form>
+</body>
+</html>
